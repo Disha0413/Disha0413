@@ -66,7 +66,7 @@
 
 <p align="center">
   <img 
-    rc="https://nirzak-streak-stats.vercel.app/?user=Disha0413&theme=dark&hide_border=false" 
+    src="https://nirzak-streak-stats.vercel.app/?user=Disha0413&theme=dark&hide_border=false" 
     height="170"
     style="margin: 10px;"
   />
@@ -80,12 +80,11 @@
 
 <p align="center">
   <img 
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Disha0413&show_icons=true&theme=dark" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Disha0413&show_icons=true&theme=dark" 
     height="170"
     style="margin: 10px;"
   />
 </p>
->
 
 
 ⭐️ *Always open to collaboration, learning, and building impactful software.*
