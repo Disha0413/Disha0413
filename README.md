@@ -69,8 +69,8 @@
 </p>
 <p>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Disha0413&show_icons=true&theme=dark" />
-</p>
-<p>
+
+
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Disha0413&layout=compact&theme=dark" />
 </p>
 
