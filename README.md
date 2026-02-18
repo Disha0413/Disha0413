@@ -65,11 +65,12 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Disha0413&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Disha0413&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Disha0413&theme=dark&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Disha0413&layout=compact&theme=dark" />
 </p>
+
 
 ⭐️ *Always open to collaboration, learning, and building impactful software.*
