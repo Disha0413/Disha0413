@@ -64,9 +64,12 @@
 
 # 📊 GitHub Stats:
 
-<p>
+<p ailgn="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Disha0413&theme=dark&hide_border=false" />
+</p>
+<p>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Disha0413&show_icons=true&theme=dark" />
+  
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Disha0413&layout=compact&theme=dark" />
 </p>
 
