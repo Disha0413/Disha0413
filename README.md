@@ -7,7 +7,6 @@
   📚 Currently strengthening DSA, System Design & Backend Engineering
 </p>
 
----
 
 ## 👩‍💻 About Me
 
@@ -16,9 +15,7 @@
 - 🌱 Practicing **Data Structures & Algorithms in Java**
 - 🧠 Learning **System Design & scalable architecture**
 - ☁️ Exploring **Cloud & DevOps with AWS & Docker**
-- 🏆 Preparing for Software Engineer roles (Internship & Full-Time)
 
----
 
 ## 🚀 Tech Stack
 
@@ -43,7 +40,6 @@
 - API architecture
 - Caching & Load balancing concepts
 
----
 
 ## 🛠 Platforms & Tools
 
@@ -53,7 +49,6 @@
 - Postman  
 - Docker Desktop  
 
----
 
 ## 📌 Projects
 
@@ -66,30 +61,14 @@
 - Chrome extension to assist during practice  
 - Focused on improving problem-solving workflow  
 
-✨ More projects available on my GitHub:  
-👉 **GitHub:** https://github.com/Disha0413  
-
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/disha-saini-9ba367283/
-- 📧 Email: disha041203@gmail.com
-
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Disha0413&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Disha0413&theme=tokyonight&hide_border=false" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Disha0413&theme=tokyonight&hide_border=false&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=Disha0413&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" /> <img src="https://nirzak-streak-stats.vercel.app/?user=Disha0413&theme=dark&hide_border=false" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Disha0413&theme=dark&hide_border=false&layout=compact&cache_seconds=86400" />
 
 </p>
 
----
 
 ⭐️ *Always open to collaboration, learning, and building impactful software.*
